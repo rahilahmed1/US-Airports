@@ -1,4 +1,4 @@
-/# US-Airports
+# US-Airports
 
 This is a Power BI project where we want to solve the follwing problems statemts:
 
